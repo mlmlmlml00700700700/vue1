@@ -61,7 +61,7 @@ import { ref, watch, onMounted, computed } from 'vue';
   <main class="app">
     <section class="greeting">
       <h1 class="title"> 
-        What's up
+        What's up 💖 
         <input 
           type="text" 
           placeholder="name here"
